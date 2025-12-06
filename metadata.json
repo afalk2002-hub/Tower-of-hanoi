@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Recursive Tower of Hanoi",
+  "description": "A classic Tower of Hanoi game featuring an interactive recursive auto-solver and an AI tutor powered by Gemini to explain the logic.",
+  "requestFramePermissions": []
+}
